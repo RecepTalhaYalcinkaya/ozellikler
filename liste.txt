@@ -1,5 +1,5 @@
-1-) menü seçimi
-2-) sipariş al
 3-) sipariş ver
+2-) sipariş al
+1-) menü seçimi
 4-) kullanıcı yorumları
 5-) değerlendirmeler
